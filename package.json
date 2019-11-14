@@ -109,7 +109,7 @@
     "biguint-format": "1.0.0",
     "bluebird": "3.5.3",
     "flake-idgen": "1.1.0",
-    "jquery": "3.3.1",
+    "jquery": "3.4.0",
     "keycode-js": "1.0.3",
     "lodash.template": "4.4.0",
     "loglevel": "1.6.1",
